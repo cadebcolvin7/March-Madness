@@ -1,5 +1,5 @@
-import DesignC from './DesignC_Preview.jsx'
+import MarchMadness from './MarchMadness.jsx'
 
 export default function App() {
-  return <DesignC />
+  return <MarchMadness />
 }
